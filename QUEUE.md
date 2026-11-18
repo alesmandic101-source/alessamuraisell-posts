@@ -64,6 +64,17 @@ Small and real beats big and imagined 🎱
 
 Not sure which question to start with? DM me, I'll help you find it.
 
+## SAMPLE — WAITING FOR ALEŠ'S OK — 07-reel-stop-guessing (REEL, automatic type)
+Files: posts/07-reel-stop-guessing/reel.mp4 and cover.jpg. Do not publish until this line says READY.
+Caption:
+Stop guessing what to sell.
+
+Your followers already told you. It's in your comments, every week: "do you have a guide for this?", "how did you start?", "can you explain that again?"
+
+The question they ask most is your first product.
+
+Don't know which one it is? DM me "audit" and I'll find it for you 🎱
+
 ## WAITING FOR PHOTO — pool lesson (personal, single image)
 Template: templates/single-fullbleed-photo.html. Needs a photo of Aleš at the pool table (not provided yet). Skip until assets/ has a pool photo.
 Headline: "Don't play the flashy shot. Play the one that sets up the next."

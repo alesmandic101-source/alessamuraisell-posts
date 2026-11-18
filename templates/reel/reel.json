@@ -1,0 +1,30 @@
+{
+ "fade": 0.35,
+ "scenes": [
+  {
+   "file": "scene-1.html",
+   "dur": 2.8,
+   "zoom": true
+  },
+  {
+   "file": "scene-2.html",
+   "dur": 1.1
+  },
+  {
+   "file": "scene-3.html",
+   "dur": 0.9
+  },
+  {
+   "file": "scene-4.html",
+   "dur": 1.8
+  },
+  {
+   "file": "scene-5.html",
+   "dur": 3.0
+  },
+  {
+   "file": "scene-6.html",
+   "dur": 3.4
+  }
+ ]
+}

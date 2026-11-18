@@ -1,5 +1,7 @@
 # Queue
 
+Reels approved: no   (switch to yes once Aleš OKs the sample Reel)
+
 Take the FIRST item marked READY (top to bottom). Images are already rendered and checked; publish them as they are with the caption exactly as written.
 If none is READY, create a new post following BRAND.md and RUNBOOK.md step 3.
 

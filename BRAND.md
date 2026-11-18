@@ -27,6 +27,9 @@ Creators with 5k–100k followers who check this profile after Aleš DMs them. P
 ## Photos (assets/)
 - hero_restaurant.jpg — waist-up, white linen shirt, stone wall (1080×860 crop for photo covers)
 - face_chairlift.jpg — square face crop, big smile (round badges)
+- cover_chairlift.jpg — chairlift selfie, 1080×860 (photo covers)
+- fullbleed_hat_mountains.jpg — sun hat selfie outdoors, 1080×1350 (full-bleed single images)
+- Don't use the same cover photo on two posts in a row; check LOG.md.
 - ONLY use photos of Aleš alone. Never children. Adults only if Aleš has said in a note in QUEUE.md that they agreed.
 - Never generate, edit or AI-alter his face. Only real photos.
 

@@ -77,9 +77,7 @@ The question they ask most is your first product.
 
 Don't know which one it is? DM me "audit" and I'll find it for you 🎱
 
-## WAITING FOR PHOTO — pool lesson (personal, single image)
-Template: templates/single-fullbleed-photo.html. Needs a photo of Aleš at the pool table (not provided yet). Skip until assets/ has a pool photo.
-Headline: "Don't play the flashy shot. Play the one that sets up the next."
+## READY — 08-pool-flashy-shot (personal, SINGLE IMAGE: use create_image_post with slide-1.jpg)
 Caption:
 Not many people know this about me, but I play pool. Like, seriously. I play for the Slovenian national team 🎱
 

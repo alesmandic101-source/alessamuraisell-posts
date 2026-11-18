@@ -29,8 +29,14 @@ Creators with 5k–100k followers who check this profile after Aleš DMs them. P
 - face_chairlift.jpg — square face crop, big smile (round badges)
 - cover_chairlift.jpg — chairlift selfie, 1080×860 (photo covers)
 - fullbleed_hat_mountains.jpg — sun hat selfie outdoors, 1080×1350 (full-bleed single images)
+- cover_pool_aiming.jpg — lining up a shot at a tournament, 1080×860 (best pool photo)
+- cover_pool_dark.jpg — dramatic dark shot over a blue table, 1080×860
+- cover_pool_room.jpg — smiling selfie in a pool training room, 1080×860
+- bg_pool_table.jpg — racked balls and cue on a grey table, no people, 1080×1350 (backgrounds, Reels)
+- with-friends/ — photos with adult friends and family (cocktails.jpg, night_selfie.jpg, pasta_class.jpg 1080×1350; home_toast_landscape.jpg 4:3). Aleš confirmed on 2026-11-18 that every adult in these photos agreed to appear. Use them for personal posts only, at most one in every 4 posts.
+- All photos are lightly enhanced (light, contrast, sharpness). Never retouch or alter faces.
 - Don't use the same cover photo on two posts in a row; check LOG.md.
-- ONLY use photos of Aleš alone. Never children. Adults only if Aleš has said in a note in QUEUE.md that they agreed.
+- Photos of Aleš alone, or the approved photos in assets/with-friends/. NEVER children, under any circumstances. Never other people's photos that are not in assets/.
 - Never generate, edit or AI-alter his face. Only real photos.
 
 ## Content mix (rotate)

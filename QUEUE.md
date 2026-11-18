@@ -1,6 +1,6 @@
 # Queue
 
-Reels approved: no   (switch to yes once Aleš OKs the sample Reel)
+Reels approved: yes  (Aleš approved the sample on 2026-11-18)
 
 Take the FIRST item marked READY (top to bottom). Images are already rendered and checked; publish them as they are with the caption exactly as written.
 If none is READY, create a new post following BRAND.md and RUNBOOK.md step 3.
@@ -66,8 +66,8 @@ Small and real beats big and imagined 🎱
 
 Not sure which question to start with? DM me, I'll help you find it.
 
-## SAMPLE — WAITING FOR ALEŠ'S OK — 07-reel-stop-guessing (REEL, automatic type)
-Files: posts/07-reel-stop-guessing/reel.mp4 and cover.jpg. Do not publish until this line says READY.
+## READY — 07-reel-stop-guessing (REEL, automatic type)
+Files: posts/07-reel-stop-guessing/reel.mp4 and cover.jpg.
 Caption:
 Stop guessing what to sell.
 

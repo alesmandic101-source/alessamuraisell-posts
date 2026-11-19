@@ -66,7 +66,7 @@ Small and real beats big and imagined 🎱
 
 Not sure which question to start with? DM me, I'll help you find it.
 
-## READY — 07-reel-stop-guessing (REEL, automatic type)
+## PUBLISHED 2026-11-19 — 07-reel-stop-guessing (REEL, automatic type)
 Files: posts/07-reel-stop-guessing/reel.mp4 and cover.jpg.
 Caption:
 Stop guessing what to sell.
@@ -86,3 +86,47 @@ The biggest thing it taught me: the flashy shot rarely wins. The one that sets u
 Building products with creators is the same. I'm not after a quick launch that burns your audience. I want the product that sets up the next one. And the one after that.
 
 Slow is smooth, smooth is fast 🔥
+
+## READY — 09-reel-worth-building (REEL, automatic type)
+Caption:
+Before you spend weeks building a course, ask 3 questions:
+
+Did 5 or more people ask for it?
+Did they ask in their own words, without you prompting them?
+Does it solve one clear problem?
+
+Three yeses? Build it this month.
+
+Not sure about your idea? DM it to me, I'll tell you honestly 🎱
+
+## READY — 10-reel-position-beats-power (REEL, automatic type)
+Caption:
+Pool taught me one business rule 🎱
+
+Hitting the ball hard looks impressive. Leaving yourself an easy next shot is what actually wins.
+
+Same with products. The flashy launch gets attention for a week. The product that sets up the next one builds something that lasts.
+
+Slow is smooth, smooth is fast.
+
+## READY — 11-reel-what-you-do (REEL, automatic type)
+Caption:
+"Sounds like a lot of work." It isn't, for you 😄
+
+When we work together, your part is:
+1. Keep posting like you always do.
+2. Tell your audience the product exists.
+
+My part: finding the right idea, building it, and getting it ready to sell.
+
+Curious what yours could be? DM me "audit".
+
+## READY — 12-reel-follower-myth (REEL, automatic type)
+Caption:
+You don't need 100k followers to sell something.
+
+You need people asking you the same question, again and again. "How did you learn this?" "Can you make a guide?" "Where do I even start?"
+
+A small audience that trusts you is enough to start.
+
+Want to know what yours is asking? DM me "audit" and I'll check 👀

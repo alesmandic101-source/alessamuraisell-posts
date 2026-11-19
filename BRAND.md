@@ -24,7 +24,7 @@ Creators with 5k–100k followers who check this profile after Aleš DMs them. P
 - Vary layouts between consecutive posts (photo-led, text-led, list, quote). Same family, never copies.
 - Start from templates/*.html, copy into posts/<NN-short-name>/slide-N.html, change only the text (and photo if needed). Photos are referenced as ASSET/<file>.
 
-## Photos (assets/)
+## Photos (assets/) — full list and rotation rule in PHOTOS.md
 - hero_restaurant.jpg — waist-up, white linen shirt, stone wall (1080×860 crop for photo covers)
 - face_chairlift.jpg — square face crop, big smile (round badges)
 - cover_chairlift.jpg — chairlift selfie, 1080×860 (photo covers)

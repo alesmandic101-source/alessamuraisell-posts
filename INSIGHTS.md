@@ -3,7 +3,7 @@
 ## How the daily check works
 Each day: pull every post's numbers through the Windsor.ai for Social Media connector (connector `instagram`, account `17841422405541422`), using get_data with the fields
 `media_id, timestamp, media_type, media_reach, media_views, media_total_like_count, media_total_comments_count, media_saved, media_shares, media_follows, media_profile_visits`
-and `date_preset: "last_2yearsT"`. Also read the comments (`comment_text, comment_timestamp, media_id`).
+and `date_preset: "last_28dT"` (the Windsor trial only reads the last 30 days; "last_2yearsT" errors. Once posts are older than 28 days, keep their last recorded numbers). Also read the comments (`comment_text, comment_timestamp, media_id`).
 
 Score per post = (likes + 3×comments + 3×saves + 2×shares + 5×follows) ÷ max(reach, 1). Judge a post only once it's at least 48 hours old.
 A post is a **standout** when its score is at least 1.5× the median score of the other judged posts, and at least 4 posts have been judged. Before that, there isn't enough data: just record the numbers.
@@ -17,10 +17,11 @@ A post is a **standout** when its score is at least 1.5× the median score of th
 ## Numbers
 | Folder | Media id | Published | Reach | Likes | Comments | Saves | Shares | Follows | Score | Standout |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 01-intro | 18101627624208574 | 2026-11-18 | 0 | – | – | 0 | 0 | 0 | – | too new |
+| 01-intro | 18101627624208574 | 2026-11-18 | 9 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
+| 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 6 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
 
 ## Learnings (max 10 bullets, newest first, keep only what still holds)
-- None yet. The account is brand new, so early numbers will be tiny. Don't over-read them.
+- None yet. The account is brand new (reach under 10 per post), so don't over-read anything. Intro carousel got 3 profile visits from 9 reached.
 
 ## Lean the next 1–2 new posts toward
 - Nothing yet: keep rotating content types per BRAND.md.

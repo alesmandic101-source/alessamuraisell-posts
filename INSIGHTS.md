@@ -17,11 +17,11 @@ A post is a **standout** when its score is at least 1.5× the median score of th
 ## Numbers
 | Folder | Media id | Published | Reach | Likes | Comments | Saves | Shares | Follows | Score | Standout |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 01-intro | 18101627624208574 | 2026-11-18 | 9 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
-| 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 6 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
+| 01-intro | 18101627624208574 | 2026-11-18 | 12 | 0 | 0 | 0 | 1 | 0 | 0.17 | too new |
+| 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 12 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
 
 ## Learnings (max 10 bullets, newest first, keep only what still holds)
-- None yet. The account is brand new (reach under 10 per post), so don't over-read anything. Intro carousel got 3 profile visits from 9 reached.
+- None yet. The account is brand new (reach ~12 per post, no comments yet), so don't over-read anything. Intro carousel: 3 profile visits and 1 share from 12 reached; first Reel: 19 views from 12 reached.
 
 ## Lean the next 1–2 new posts toward
 - Nothing yet: keep rotating content types per BRAND.md.

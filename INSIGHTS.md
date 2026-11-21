@@ -17,11 +17,12 @@ A post is a **standout** when its score is at least 1.5× the median score of th
 ## Numbers
 | Folder | Media id | Published | Reach | Likes | Comments | Saves | Shares | Follows | Score | Standout |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 01-intro | 18101627624208574 | 2026-11-18 | 12 | 0 | 0 | 0 | 1 | 0 | 0.17 | too new |
-| 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 12 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
+| 01-intro | 18101627624208574 | 2026-11-18 | 14 | 0 | 0 | 0 | 1 | 0 | 0.14 | judged (need 4 judged to call standouts) |
+| 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 12 | 0 | 0 | 0 | 0 | 0 | 0.00 | judged (need 4 judged to call standouts) |
+| 03-how-an-audit-works | 17928707355199440 | 2026-11-21 | 0 | 0 | 0 | 0 | 0 | 0 | 0.00 | too new |
 
 ## Learnings (max 10 bullets, newest first, keep only what still holds)
-- None yet. The account is brand new (reach ~12 per post, no comments yet), so don't over-read anything. Intro carousel: 3 profile visits and 1 share from 12 reached; first Reel: 19 views from 12 reached.
+- None yet. The account is brand new (reach 12–14 per post, no likes or comments yet), so don't over-read anything. Intro carousel: 26 views, 3 profile visits and 1 share from 14 reached; first Reel: 19 views from 12 reached. 2 of 4 posts needed for standout calls are judged.
 
 ## Lean the next 1–2 new posts toward
 - Nothing yet: keep rotating content types per BRAND.md.

@@ -16,7 +16,7 @@ Tonight, go through your last 10 posts and count how often the same question sho
 
 Save this 📌 and tell me below: what does your audience ask you the most?
 
-## READY — 03-how-an-audit-works (how he works, carousel, 3 slides)
+## PUBLISHED 2026-11-21 — 03-how-an-audit-works (how he works, carousel, 3 slides)
 Caption:
 People ask me what the "free audit" actually is. Fair question 😄
 

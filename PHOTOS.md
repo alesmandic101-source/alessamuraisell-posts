@@ -7,7 +7,7 @@ Never children. Photos with friends are approved adults only (Aleš confirmed 20
 | File | What | Last used |
 |---|---|---|
 | assets/hero_restaurant.jpg | white linen shirt, stone wall restaurant | 2026-11-18 (01) · queued 11 |
-| assets/cover_chairlift.jpg | chairlift selfie, big smile | queued 03, 12 |
+| assets/cover_chairlift.jpg | chairlift selfie, big smile | 2026-11-21 (03) · queued 12 |
 | assets/fullbleed_hat_mountains.jpg | sun hat selfie outdoors, 1080×1350 | 2026-11-19 (07) · queued 05 |
 | assets/cover_pool_aiming.jpg | lining up a shot at a tournament | queued 08 |
 | assets/cover_pool_dark.jpg | dramatic dark shot over blue table | queued 10 |
@@ -27,7 +27,7 @@ Never children. Photos with friends are approved adults only (Aleš confirmed 20
 |---|---|
 | faces/chairlift.jpg | 2026-11-18 (01), 2026-11-19 (07) |
 | faces/pink_sweater.jpg | queued 02 |
-| faces/ferry.jpg | queued 03, 10 |
+| faces/ferry.jpg | 2026-11-21 (03) · queued 10 |
 | faces/restaurant.jpg | queued 04 |
 | faces/car.jpg | queued 06 |
 | faces/hat.jpg | queued 09 |

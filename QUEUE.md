@@ -5,7 +5,7 @@ Reels approved: yes  (Aleš approved the sample on 2026-11-18)
 Take the FIRST item marked READY (top to bottom). Images are already rendered and checked; publish them as they are with the caption exactly as written.
 If none is READY, create a new post following BRAND.md and RUNBOOK.md step 3.
 
-## READY — 02-comments-waitlist (value tip, carousel, 3 slides)
+## PUBLISHED 2026-11-22 — 02-comments-waitlist (value tip, carousel, 3 slides)
 Caption:
 Most creators see comments as engagement.
 I see a list of people waiting for something.

@@ -26,7 +26,7 @@ Never children. Photos with friends are approved adults only (Aleš confirmed 20
 | File | Last used |
 |---|---|
 | faces/chairlift.jpg | 2026-11-18 (01), 2026-11-19 (07) |
-| faces/pink_sweater.jpg | queued 02 |
+| faces/pink_sweater.jpg | 2026-11-22 (02) |
 | faces/ferry.jpg | 2026-11-21 (03) · queued 10 |
 | faces/restaurant.jpg | queued 04 |
 | faces/car.jpg | queued 06 |

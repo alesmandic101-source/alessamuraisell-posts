@@ -20,11 +20,11 @@ A post is a **standout** when its score is at least 1.5× the median score of th
 | 01-intro | 18101627624208574 | 2026-11-18 | 15 | 0 | 0 | 0 | 1 | 0 | 0.13 | no (all others score 0, rule not meaningful yet) |
 | 07-reel-stop-guessing | 18111007739241804 | 2026-11-19 | 13 | 0 | 0 | 0 | 0 | 0 | 0.00 | no |
 | 03-how-an-audit-works | 17928707355199440 | 2026-11-21 | 1 | 0 | 0 | 0 | 0 | 0 | 0.00 | no |
-| 02-comments-waitlist | 18143348698615567 | 2026-11-22 | 2 | 0 | 0 | 0 | 0 | 0 | 0.00 | no |
+| 02-comments-waitlist | 18143348698615567 | 2026-11-22 | 3 | 0 | 0 | 0 | 0 | 0 | 0.00 | no |
 
 ## Learnings (max 10 bullets, newest first, keep only what still holds)
 - All 4 posts are now judged, but no standouts: every post except the intro scores 0, so the 1.5×-median rule can't separate anything yet (median is 0). Only call a standout once the median of the others is above 0.
-- Account is brand new: reach 1–15 per post, no likes or comments yet. Intro carousel (27 views, 3 profile visits, 1 share) and first Reel (22 views) reached the most; the two later carousels reached only 1–2. Too small to read as a format signal yet.
+- Account is brand new: reach 1–15 per post, no likes or comments yet. Intro carousel (27 views, 3 profile visits, 1 share) and first Reel (22 views) reached the most; the two later carousels reached only 1–3. Too small to read as a format signal yet.
 
 ## Lean the next 1–2 new posts toward
 - Nothing yet: keep rotating content types per BRAND.md.

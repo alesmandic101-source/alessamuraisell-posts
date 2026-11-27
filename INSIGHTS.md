@@ -24,6 +24,7 @@ A post is a **standout** when its score is at least 1.5× the median score of th
 
 ## Learnings (max 10 bullets, newest first, keep only what still holds)
 - All 4 posts are now judged, but no standouts: every post except the intro scores 0, so the 1.5×-median rule can't separate anything yet (median is 0). Only call a standout once the median of the others is above 0.
+- No new posts since 22 Nov (weekly planner couldn't create the post tasks), and numbers for all 4 posts haven't moved since 23 Nov. Nothing new to learn until posting resumes.
 - Account is brand new: reach 1–15 per post, no likes or comments yet. Intro carousel (27 views, 3 profile visits, 1 share) and first Reel (22 views) reached the most; the two later carousels reached only 1–4. Too small to read as a format signal yet.
 
 ## Lean the next 1–2 new posts toward
